@@ -1,6 +1,6 @@
 # ECAssignments
 
-Project Experiments done for COMP-6660 Evolutionary Computing at Auburn University
+Project Experiments done for COMP-6660 Evolutionary Computing. Course was taught by Dr. Daniel Tauritz (https://bonsai.auburn.edu/dtauritz/) at Auburn University.
 
 ## Project List
 
