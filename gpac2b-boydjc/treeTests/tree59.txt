@@ -1,0 +1,5 @@
+RAND
+|RAND
+||W
+||P
+|M

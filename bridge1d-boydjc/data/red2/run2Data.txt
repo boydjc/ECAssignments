@@ -1,0 +1,100 @@
+Number of Evaluations: 470
+Best Fitness: 7000000
+Average Fitness: -62566666.666666664
+------------------------
+Number of Evaluations: 660
+Best Fitness: 14000000
+Average Fitness: -37933333.333333336
+------------------------
+Number of Evaluations: 850
+Best Fitness: 14000000
+Average Fitness: -10400000
+------------------------
+Number of Evaluations: 1040
+Best Fitness: 14000000
+Average Fitness: 3550000
+------------------------
+Number of Evaluations: 1230
+Best Fitness: 14000000
+Average Fitness: 3950000
+------------------------
+Number of Evaluations: 1420
+Best Fitness: 14000000
+Average Fitness: 5183333.333333333
+------------------------
+Number of Evaluations: 1610
+Best Fitness: 14000000
+Average Fitness: 6516666.666666667
+------------------------
+Number of Evaluations: 1800
+Best Fitness: 14000000
+Average Fitness: 7383333.333333333
+------------------------
+Number of Evaluations: 1990
+Best Fitness: 14000000
+Average Fitness: 7900000
+------------------------
+Number of Evaluations: 2180
+Best Fitness: 14500000
+Average Fitness: 9383333.333333334
+------------------------
+Number of Evaluations: 2370
+Best Fitness: 14500000
+Average Fitness: 9700000
+------------------------
+Number of Evaluations: 2560
+Best Fitness: 14500000
+Average Fitness: 10616666.666666666
+------------------------
+Number of Evaluations: 2750
+Best Fitness: 15000000
+Average Fitness: 11350000
+------------------------
+Number of Evaluations: 2940
+Best Fitness: 15000000
+Average Fitness: 11933333.333333334
+------------------------
+Number of Evaluations: 3130
+Best Fitness: 15000000
+Average Fitness: 11950000
+------------------------
+Number of Evaluations: 3320
+Best Fitness: 18000000
+Average Fitness: 12866666.666666666
+------------------------
+Number of Evaluations: 3510
+Best Fitness: 18000000
+Average Fitness: 13500000
+------------------------
+Number of Evaluations: 3700
+Best Fitness: 18000000
+Average Fitness: 14216666.666666666
+------------------------
+Number of Evaluations: 3890
+Best Fitness: 18000000
+Average Fitness: 14800000
+------------------------
+Number of Evaluations: 4080
+Best Fitness: 26000000
+Average Fitness: 15550000
+------------------------
+Number of Evaluations: 4270
+Best Fitness: 26000000
+Average Fitness: 16066666.666666666
+------------------------
+Number of Evaluations: 4460
+Best Fitness: 26000000
+Average Fitness: 16683333.333333334
+------------------------
+Number of Evaluations: 4650
+Best Fitness: 26000000
+Average Fitness: 17250000
+------------------------
+Number of Evaluations: 4840
+Best Fitness: 26500000
+Average Fitness: 17883333.333333332
+------------------------
+Number of Evaluations: 5030
+Best Fitness: 26500000
+Average Fitness: 17933333.333333332
+------------------------

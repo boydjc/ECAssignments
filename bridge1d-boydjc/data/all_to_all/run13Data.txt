@@ -1,0 +1,972 @@
+Number of Evaluations: 160
+Best Fitness: 25000000
+Average Fitness: -53381250
+------------------------
+Number of Evaluations: 180
+Best Fitness: 25000000
+Average Fitness: -46931250
+------------------------
+Number of Evaluations: 200
+Best Fitness: 25000000
+Average Fitness: -41706250
+------------------------
+Number of Evaluations: 220
+Best Fitness: 25000000
+Average Fitness: -35175000
+------------------------
+Number of Evaluations: 240
+Best Fitness: 25000000
+Average Fitness: -27331250
+------------------------
+Number of Evaluations: 260
+Best Fitness: 25000000
+Average Fitness: -17843750
+------------------------
+Number of Evaluations: 280
+Best Fitness: 25000000
+Average Fitness: -6975000
+------------------------
+Number of Evaluations: 300
+Best Fitness: 25000000
+Average Fitness: -18750
+------------------------
+Number of Evaluations: 320
+Best Fitness: 25000000
+Average Fitness: 2912500
+------------------------
+Number of Evaluations: 340
+Best Fitness: 25000000
+Average Fitness: 6543750
+------------------------
+Number of Evaluations: 360
+Best Fitness: 25000000
+Average Fitness: 6975000
+------------------------
+Number of Evaluations: 380
+Best Fitness: 25000000
+Average Fitness: 7743750
+------------------------
+Number of Evaluations: 400
+Best Fitness: 25000000
+Average Fitness: 7937500
+------------------------
+Number of Evaluations: 420
+Best Fitness: 25000000
+Average Fitness: 8331250
+------------------------
+Number of Evaluations: 440
+Best Fitness: 25000000
+Average Fitness: 9175000
+------------------------
+Number of Evaluations: 460
+Best Fitness: 25000000
+Average Fitness: 9712500
+------------------------
+Number of Evaluations: 480
+Best Fitness: 25000000
+Average Fitness: 10356250
+------------------------
+Number of Evaluations: 500
+Best Fitness: 25000000
+Average Fitness: 11118750
+------------------------
+Number of Evaluations: 520
+Best Fitness: 25000000
+Average Fitness: 12050000
+------------------------
+Number of Evaluations: 540
+Best Fitness: 25000000
+Average Fitness: 13275000
+------------------------
+Number of Evaluations: 560
+Best Fitness: 25000000
+Average Fitness: 14131250
+------------------------
+Number of Evaluations: 580
+Best Fitness: 25000000
+Average Fitness: 14531250
+------------------------
+Number of Evaluations: 600
+Best Fitness: 25000000
+Average Fitness: 15887500
+------------------------
+Number of Evaluations: 620
+Best Fitness: 25000000
+Average Fitness: 16218750
+------------------------
+Number of Evaluations: 640
+Best Fitness: 25000000
+Average Fitness: 16862500
+------------------------
+Number of Evaluations: 660
+Best Fitness: 25000000
+Average Fitness: 17975000
+------------------------
+Number of Evaluations: 680
+Best Fitness: 25000000
+Average Fitness: 18368750
+------------------------
+Number of Evaluations: 700
+Best Fitness: 25000000
+Average Fitness: 18768750
+------------------------
+Number of Evaluations: 720
+Best Fitness: 25000000
+Average Fitness: 19837500
+------------------------
+Number of Evaluations: 740
+Best Fitness: 25000000
+Average Fitness: 20993750
+------------------------
+Number of Evaluations: 760
+Best Fitness: 25000000
+Average Fitness: 21637500
+------------------------
+Number of Evaluations: 780
+Best Fitness: 25000000
+Average Fitness: 22150000
+------------------------
+Number of Evaluations: 800
+Best Fitness: 25000000
+Average Fitness: 22931250
+------------------------
+Number of Evaluations: 820
+Best Fitness: 25000000
+Average Fitness: 23181250
+------------------------
+Number of Evaluations: 840
+Best Fitness: 25000000
+Average Fitness: 23712500
+------------------------
+Number of Evaluations: 860
+Best Fitness: 25000000
+Average Fitness: 23800000
+------------------------
+Number of Evaluations: 880
+Best Fitness: 25000000
+Average Fitness: 24056250
+------------------------
+Number of Evaluations: 900
+Best Fitness: 25000000
+Average Fitness: 24100000
+------------------------
+Number of Evaluations: 920
+Best Fitness: 25000000
+Average Fitness: 24168750
+------------------------
+Number of Evaluations: 940
+Best Fitness: 25000000
+Average Fitness: 24243750
+------------------------
+Number of Evaluations: 960
+Best Fitness: 25000000
+Average Fitness: 24343750
+------------------------
+Number of Evaluations: 980
+Best Fitness: 25000000
+Average Fitness: 24400000
+------------------------
+Number of Evaluations: 1000
+Best Fitness: 25000000
+Average Fitness: 24462500
+------------------------
+Number of Evaluations: 1020
+Best Fitness: 25000000
+Average Fitness: 21406250
+------------------------
+Number of Evaluations: 1040
+Best Fitness: 25000000
+Average Fitness: 24575000
+------------------------
+Number of Evaluations: 1060
+Best Fitness: 25000000
+Average Fitness: 24650000
+------------------------
+Number of Evaluations: 1080
+Best Fitness: 25000000
+Average Fitness: 24712500
+------------------------
+Number of Evaluations: 1100
+Best Fitness: 25000000
+Average Fitness: 24587500
+------------------------
+Number of Evaluations: 1120
+Best Fitness: 25000000
+Average Fitness: 24281250
+------------------------
+Number of Evaluations: 1140
+Best Fitness: 25000000
+Average Fitness: 24543750
+------------------------
+Number of Evaluations: 1160
+Best Fitness: 25000000
+Average Fitness: 24875000
+------------------------
+Number of Evaluations: 1180
+Best Fitness: 25000000
+Average Fitness: 24643750
+------------------------
+Number of Evaluations: 1200
+Best Fitness: 25000000
+Average Fitness: 24981250
+------------------------
+Number of Evaluations: 1220
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1240
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1260
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1280
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1300
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1320
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1340
+Best Fitness: 25000000
+Average Fitness: 24818750
+------------------------
+Number of Evaluations: 1360
+Best Fitness: 25000000
+Average Fitness: 24818750
+------------------------
+Number of Evaluations: 1380
+Best Fitness: 25000000
+Average Fitness: 24587500
+------------------------
+Number of Evaluations: 1400
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1420
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1440
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1460
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1480
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1500
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1520
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1540
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1560
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1580
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1600
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1620
+Best Fitness: 25000000
+Average Fitness: 24956250
+------------------------
+Number of Evaluations: 1640
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1660
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1680
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1700
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1720
+Best Fitness: 25000000
+Average Fitness: 25000000
+------------------------
+Number of Evaluations: 1740
+Best Fitness: 28000000
+Average Fitness: 25037500
+------------------------
+Number of Evaluations: 1760
+Best Fitness: 28000000
+Average Fitness: 23181250
+------------------------
+Number of Evaluations: 1780
+Best Fitness: 28000000
+Average Fitness: 24431250
+------------------------
+Number of Evaluations: 1800
+Best Fitness: 28000000
+Average Fitness: 25037500
+------------------------
+Number of Evaluations: 1820
+Best Fitness: 28000000
+Average Fitness: 25062500
+------------------------
+Number of Evaluations: 1840
+Best Fitness: 28000000
+Average Fitness: 25087500
+------------------------
+Number of Evaluations: 1860
+Best Fitness: 28000000
+Average Fitness: 25100000
+------------------------
+Number of Evaluations: 1880
+Best Fitness: 28000000
+Average Fitness: 25112500
+------------------------
+Number of Evaluations: 1900
+Best Fitness: 28000000
+Average Fitness: 25162500
+------------------------
+Number of Evaluations: 1920
+Best Fitness: 28000000
+Average Fitness: 25200000
+------------------------
+Number of Evaluations: 1940
+Best Fitness: 28000000
+Average Fitness: 25212500
+------------------------
+Number of Evaluations: 1960
+Best Fitness: 28000000
+Average Fitness: 25256250
+------------------------
+Number of Evaluations: 1980
+Best Fitness: 28000000
+Average Fitness: 25275000
+------------------------
+Number of Evaluations: 2000
+Best Fitness: 28000000
+Average Fitness: 25337500
+------------------------
+Number of Evaluations: 2020
+Best Fitness: 28000000
+Average Fitness: 25475000
+------------------------
+Number of Evaluations: 2040
+Best Fitness: 28000000
+Average Fitness: 25568750
+------------------------
+Number of Evaluations: 2060
+Best Fitness: 28000000
+Average Fitness: 25756250
+------------------------
+Number of Evaluations: 2080
+Best Fitness: 28000000
+Average Fitness: 25831250
+------------------------
+Number of Evaluations: 2100
+Best Fitness: 28000000
+Average Fitness: 25981250
+------------------------
+Number of Evaluations: 2120
+Best Fitness: 28000000
+Average Fitness: 26106250
+------------------------
+Number of Evaluations: 2140
+Best Fitness: 28000000
+Average Fitness: 26268750
+------------------------
+Number of Evaluations: 2160
+Best Fitness: 28000000
+Average Fitness: 26318750
+------------------------
+Number of Evaluations: 2180
+Best Fitness: 28000000
+Average Fitness: 26656250
+------------------------
+Number of Evaluations: 2200
+Best Fitness: 28000000
+Average Fitness: 26781250
+------------------------
+Number of Evaluations: 2220
+Best Fitness: 28000000
+Average Fitness: 26681250
+------------------------
+Number of Evaluations: 2240
+Best Fitness: 28000000
+Average Fitness: 26906250
+------------------------
+Number of Evaluations: 2260
+Best Fitness: 28000000
+Average Fitness: 27281250
+------------------------
+Number of Evaluations: 2280
+Best Fitness: 28000000
+Average Fitness: 27456250
+------------------------
+Number of Evaluations: 2300
+Best Fitness: 28000000
+Average Fitness: 27587500
+------------------------
+Number of Evaluations: 2320
+Best Fitness: 28000000
+Average Fitness: 27687500
+------------------------
+Number of Evaluations: 2340
+Best Fitness: 28000000
+Average Fitness: 27862500
+------------------------
+Number of Evaluations: 2360
+Best Fitness: 28000000
+Average Fitness: 27950000
+------------------------
+Number of Evaluations: 2380
+Best Fitness: 28000000
+Average Fitness: 27981250
+------------------------
+Number of Evaluations: 2400
+Best Fitness: 28000000
+Average Fitness: 28000000
+------------------------
+Number of Evaluations: 2420
+Best Fitness: 28000000
+Average Fitness: 28000000
+------------------------
+Number of Evaluations: 2440
+Best Fitness: 28000000
+Average Fitness: 28000000
+------------------------
+Number of Evaluations: 2460
+Best Fitness: 28000000
+Average Fitness: 28000000
+------------------------
+Number of Evaluations: 2480
+Best Fitness: 28000000
+Average Fitness: 28000000
+------------------------
+Number of Evaluations: 2500
+Best Fitness: 28000000
+Average Fitness: 28000000
+------------------------
+Number of Evaluations: 2520
+Best Fitness: 28000000
+Average Fitness: 27993750
+------------------------
+Number of Evaluations: 2540
+Best Fitness: 28500000
+Average Fitness: 27968750
+------------------------
+Number of Evaluations: 2560
+Best Fitness: 28500000
+Average Fitness: 27725000
+------------------------
+Number of Evaluations: 2580
+Best Fitness: 28500000
+Average Fitness: 28006250
+------------------------
+Number of Evaluations: 2600
+Best Fitness: 28500000
+Average Fitness: 28006250
+------------------------
+Number of Evaluations: 2620
+Best Fitness: 28500000
+Average Fitness: 28006250
+------------------------
+Number of Evaluations: 2640
+Best Fitness: 28500000
+Average Fitness: 28006250
+------------------------
+Number of Evaluations: 2660
+Best Fitness: 28500000
+Average Fitness: 28006250
+------------------------
+Number of Evaluations: 2680
+Best Fitness: 28500000
+Average Fitness: 28012500
+------------------------
+Number of Evaluations: 2700
+Best Fitness: 28500000
+Average Fitness: 28025000
+------------------------
+Number of Evaluations: 2720
+Best Fitness: 28500000
+Average Fitness: 28025000
+------------------------
+Number of Evaluations: 2740
+Best Fitness: 28500000
+Average Fitness: 28037500
+------------------------
+Number of Evaluations: 2760
+Best Fitness: 28500000
+Average Fitness: 28050000
+------------------------
+Number of Evaluations: 2780
+Best Fitness: 28500000
+Average Fitness: 27750000
+------------------------
+Number of Evaluations: 2800
+Best Fitness: 28500000
+Average Fitness: 28062500
+------------------------
+Number of Evaluations: 2820
+Best Fitness: 28500000
+Average Fitness: 27418750
+------------------------
+Number of Evaluations: 2840
+Best Fitness: 28500000
+Average Fitness: 28081250
+------------------------
+Number of Evaluations: 2860
+Best Fitness: 28500000
+Average Fitness: 28106250
+------------------------
+Number of Evaluations: 2880
+Best Fitness: 28500000
+Average Fitness: 28112500
+------------------------
+Number of Evaluations: 2900
+Best Fitness: 28500000
+Average Fitness: 28143750
+------------------------
+Number of Evaluations: 2920
+Best Fitness: 28500000
+Average Fitness: 28175000
+------------------------
+Number of Evaluations: 2940
+Best Fitness: 28500000
+Average Fitness: 28218750
+------------------------
+Number of Evaluations: 2960
+Best Fitness: 28500000
+Average Fitness: 26650000
+------------------------
+Number of Evaluations: 2980
+Best Fitness: 28500000
+Average Fitness: 27868750
+------------------------
+Number of Evaluations: 3000
+Best Fitness: 28500000
+Average Fitness: 28281250
+------------------------
+Number of Evaluations: 3020
+Best Fitness: 28500000
+Average Fitness: 28300000
+------------------------
+Number of Evaluations: 3040
+Best Fitness: 28500000
+Average Fitness: 28350000
+------------------------
+Number of Evaluations: 3060
+Best Fitness: 28500000
+Average Fitness: 28387500
+------------------------
+Number of Evaluations: 3080
+Best Fitness: 28500000
+Average Fitness: 28431250
+------------------------
+Number of Evaluations: 3100
+Best Fitness: 28500000
+Average Fitness: 28468750
+------------------------
+Number of Evaluations: 3120
+Best Fitness: 28500000
+Average Fitness: 28493750
+------------------------
+Number of Evaluations: 3140
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3160
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3180
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3200
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3220
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3240
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3260
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3280
+Best Fitness: 28500000
+Average Fitness: 28212500
+------------------------
+Number of Evaluations: 3300
+Best Fitness: 28500000
+Average Fitness: 28225000
+------------------------
+Number of Evaluations: 3320
+Best Fitness: 28500000
+Average Fitness: 28225000
+------------------------
+Number of Evaluations: 3340
+Best Fitness: 28500000
+Average Fitness: 28293750
+------------------------
+Number of Evaluations: 3360
+Best Fitness: 28500000
+Average Fitness: 28293750
+------------------------
+Number of Evaluations: 3380
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3400
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3420
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3440
+Best Fitness: 28500000
+Average Fitness: 28143750
+------------------------
+Number of Evaluations: 3460
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3480
+Best Fitness: 28500000
+Average Fitness: 28375000
+------------------------
+Number of Evaluations: 3500
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3520
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3540
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3560
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3580
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3600
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3620
+Best Fitness: 28500000
+Average Fitness: 28500000
+------------------------
+Number of Evaluations: 3640
+Best Fitness: 28500000
+Average Fitness: 26893750
+------------------------
+Number of Evaluations: 3660
+Best Fitness: 35000000
+Average Fitness: 28587500
+------------------------
+Number of Evaluations: 3680
+Best Fitness: 35000000
+Average Fitness: 28593750
+------------------------
+Number of Evaluations: 3700
+Best Fitness: 35000000
+Average Fitness: 28600000
+------------------------
+Number of Evaluations: 3720
+Best Fitness: 35000000
+Average Fitness: 28600000
+------------------------
+Number of Evaluations: 3740
+Best Fitness: 35000000
+Average Fitness: 28600000
+------------------------
+Number of Evaluations: 3760
+Best Fitness: 35000000
+Average Fitness: 28606250
+------------------------
+Number of Evaluations: 3780
+Best Fitness: 35000000
+Average Fitness: 28518750
+------------------------
+Number of Evaluations: 3800
+Best Fitness: 35000000
+Average Fitness: 28612500
+------------------------
+Number of Evaluations: 3820
+Best Fitness: 35000000
+Average Fitness: 28431250
+------------------------
+Number of Evaluations: 3840
+Best Fitness: 35000000
+Average Fitness: 28637500
+------------------------
+Number of Evaluations: 3860
+Best Fitness: 35000000
+Average Fitness: 28600000
+------------------------
+Number of Evaluations: 3880
+Best Fitness: 35000000
+Average Fitness: 28781250
+------------------------
+Number of Evaluations: 3900
+Best Fitness: 35000000
+Average Fitness: 28900000
+------------------------
+Number of Evaluations: 3920
+Best Fitness: 35000000
+Average Fitness: 28925000
+------------------------
+Number of Evaluations: 3940
+Best Fitness: 35000000
+Average Fitness: 28943750
+------------------------
+Number of Evaluations: 3960
+Best Fitness: 35000000
+Average Fitness: 28981250
+------------------------
+Number of Evaluations: 3980
+Best Fitness: 38000000
+Average Fitness: 29168750
+------------------------
+Number of Evaluations: 4000
+Best Fitness: 38000000
+Average Fitness: 29281250
+------------------------
+Number of Evaluations: 4020
+Best Fitness: 38000000
+Average Fitness: 29425000
+------------------------
+Number of Evaluations: 4040
+Best Fitness: 38000000
+Average Fitness: 29500000
+------------------------
+Number of Evaluations: 4060
+Best Fitness: 38000000
+Average Fitness: 29893750
+------------------------
+Number of Evaluations: 4080
+Best Fitness: 38000000
+Average Fitness: 29950000
+------------------------
+Number of Evaluations: 4100
+Best Fitness: 38000000
+Average Fitness: 30493750
+------------------------
+Number of Evaluations: 4120
+Best Fitness: 38000000
+Average Fitness: 30818750
+------------------------
+Number of Evaluations: 4140
+Best Fitness: 38000000
+Average Fitness: 31456250
+------------------------
+Number of Evaluations: 4160
+Best Fitness: 38000000
+Average Fitness: 32100000
+------------------------
+Number of Evaluations: 4180
+Best Fitness: 38000000
+Average Fitness: 32662500
+------------------------
+Number of Evaluations: 4200
+Best Fitness: 38000000
+Average Fitness: 33250000
+------------------------
+Number of Evaluations: 4220
+Best Fitness: 38000000
+Average Fitness: 33943750
+------------------------
+Number of Evaluations: 4240
+Best Fitness: 38000000
+Average Fitness: 34493750
+------------------------
+Number of Evaluations: 4260
+Best Fitness: 38000000
+Average Fitness: 34575000
+------------------------
+Number of Evaluations: 4280
+Best Fitness: 38000000
+Average Fitness: 35412500
+------------------------
+Number of Evaluations: 4300
+Best Fitness: 38000000
+Average Fitness: 36137500
+------------------------
+Number of Evaluations: 4320
+Best Fitness: 38000000
+Average Fitness: 36768750
+------------------------
+Number of Evaluations: 4340
+Best Fitness: 38000000
+Average Fitness: 36643750
+------------------------
+Number of Evaluations: 4360
+Best Fitness: 38000000
+Average Fitness: 37431250
+------------------------
+Number of Evaluations: 4380
+Best Fitness: 38000000
+Average Fitness: 37656250
+------------------------
+Number of Evaluations: 4400
+Best Fitness: 38000000
+Average Fitness: 37918750
+------------------------
+Number of Evaluations: 4420
+Best Fitness: 38000000
+Average Fitness: 37962500
+------------------------
+Number of Evaluations: 4440
+Best Fitness: 38000000
+Average Fitness: 38000000
+------------------------
+Number of Evaluations: 4460
+Best Fitness: 38000000
+Average Fitness: 37656250
+------------------------
+Number of Evaluations: 4480
+Best Fitness: 38000000
+Average Fitness: 37581250
+------------------------
+Number of Evaluations: 4500
+Best Fitness: 38000000
+Average Fitness: 38000000
+------------------------
+Number of Evaluations: 4520
+Best Fitness: 38000000
+Average Fitness: 38000000
+------------------------
+Number of Evaluations: 4540
+Best Fitness: 38000000
+Average Fitness: 38000000
+------------------------
+Number of Evaluations: 4560
+Best Fitness: 38000000
+Average Fitness: 37675000
+------------------------
+Number of Evaluations: 4580
+Best Fitness: 38000000
+Average Fitness: 38000000
+------------------------
+Number of Evaluations: 4600
+Best Fitness: 38000000
+Average Fitness: 38000000
+------------------------
+Number of Evaluations: 4620
+Best Fitness: 38500000
+Average Fitness: 38006250
+------------------------
+Number of Evaluations: 4640
+Best Fitness: 38500000
+Average Fitness: 37818750
+------------------------
+Number of Evaluations: 4660
+Best Fitness: 38500000
+Average Fitness: 38025000
+------------------------
+Number of Evaluations: 4680
+Best Fitness: 38500000
+Average Fitness: 38031250
+------------------------
+Number of Evaluations: 4700
+Best Fitness: 38500000
+Average Fitness: 38037500
+------------------------
+Number of Evaluations: 4720
+Best Fitness: 38500000
+Average Fitness: 38050000
+------------------------
+Number of Evaluations: 4740
+Best Fitness: 38500000
+Average Fitness: 38056250
+------------------------
+Number of Evaluations: 4760
+Best Fitness: 38500000
+Average Fitness: 38068750
+------------------------
+Number of Evaluations: 4780
+Best Fitness: 38500000
+Average Fitness: 38093750
+------------------------
+Number of Evaluations: 4800
+Best Fitness: 38500000
+Average Fitness: 38118750
+------------------------
+Number of Evaluations: 4820
+Best Fitness: 38500000
+Average Fitness: 38137500
+------------------------
+Number of Evaluations: 4840
+Best Fitness: 38500000
+Average Fitness: 38175000
+------------------------
+Number of Evaluations: 4860
+Best Fitness: 39500000
+Average Fitness: 38225000
+------------------------
+Number of Evaluations: 4880
+Best Fitness: 39500000
+Average Fitness: 38250000
+------------------------
+Number of Evaluations: 4900
+Best Fitness: 39500000
+Average Fitness: 38281250
+------------------------
+Number of Evaluations: 4920
+Best Fitness: 39500000
+Average Fitness: 38325000
+------------------------
+Number of Evaluations: 4940
+Best Fitness: 39500000
+Average Fitness: 38387500
+------------------------
+Number of Evaluations: 4960
+Best Fitness: 39500000
+Average Fitness: 38425000
+------------------------
+Number of Evaluations: 4980
+Best Fitness: 39500000
+Average Fitness: 38481250
+------------------------
+Number of Evaluations: 5000
+Best Fitness: 39500000
+Average Fitness: 38518750
+------------------------

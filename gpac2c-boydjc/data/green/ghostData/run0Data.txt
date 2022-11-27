@@ -1,0 +1,60 @@
+Number of Evaluations: 20
+Average Fitness: -471.55
+Best Fitness: 314
+------------------------
+Number of Evaluations: 45
+Average Fitness: 93.52
+Best Fitness: 945
+------------------------
+Number of Evaluations: 75
+Average Fitness: 163.2
+Best Fitness: 920
+------------------------
+Number of Evaluations: 110
+Average Fitness: 118.08571428571429
+Best Fitness: 1121
+------------------------
+Number of Evaluations: 150
+Average Fitness: 85.025
+Best Fitness: 967
+------------------------
+Number of Evaluations: 195
+Average Fitness: 96.77777777777777
+Best Fitness: 899
+------------------------
+Number of Evaluations: 245
+Average Fitness: 102.74
+Best Fitness: 1103
+------------------------
+Number of Evaluations: 300
+Average Fitness: 88.2909090909091
+Best Fitness: 1018
+------------------------
+Number of Evaluations: 360
+Average Fitness: 148.45
+Best Fitness: 1172
+------------------------
+Number of Evaluations: 425
+Average Fitness: 152.2
+Best Fitness: 1057
+------------------------
+Number of Evaluations: 495
+Average Fitness: 130.32857142857142
+Best Fitness: 995
+------------------------
+Number of Evaluations: 570
+Average Fitness: 135.78666666666666
+Best Fitness: 1320
+------------------------
+Number of Evaluations: 650
+Average Fitness: 209.9625
+Best Fitness: 1333
+------------------------
+Number of Evaluations: 735
+Average Fitness: 174.50588235294117
+Best Fitness: 1329
+------------------------
+Number of Evaluations: 825
+Average Fitness: 212.5
+Best Fitness: 1335
+------------------------

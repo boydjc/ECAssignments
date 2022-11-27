@@ -1,0 +1,4 @@
+Number of Evaluations: 2003
+Best Fitness: 68
+Average Fitness: -804.22
+------------------------

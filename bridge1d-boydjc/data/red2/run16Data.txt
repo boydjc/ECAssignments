@@ -1,0 +1,100 @@
+Number of Evaluations: 470
+Best Fitness: 14500000
+Average Fitness: -78733333.33333333
+------------------------
+Number of Evaluations: 660
+Best Fitness: 14500000
+Average Fitness: -58333333.333333336
+------------------------
+Number of Evaluations: 850
+Best Fitness: 14500000
+Average Fitness: -47666666.666666664
+------------------------
+Number of Evaluations: 1040
+Best Fitness: 22000000
+Average Fitness: -22650000
+------------------------
+Number of Evaluations: 1230
+Best Fitness: 22000000
+Average Fitness: -266666.6666666667
+------------------------
+Number of Evaluations: 1420
+Best Fitness: 22000000
+Average Fitness: 3383333.3333333335
+------------------------
+Number of Evaluations: 1610
+Best Fitness: 22000000
+Average Fitness: 10083333.333333334
+------------------------
+Number of Evaluations: 1800
+Best Fitness: 22000000
+Average Fitness: 12216666.666666666
+------------------------
+Number of Evaluations: 1990
+Best Fitness: 22000000
+Average Fitness: 14700000
+------------------------
+Number of Evaluations: 2180
+Best Fitness: 22000000
+Average Fitness: 17050000
+------------------------
+Number of Evaluations: 2370
+Best Fitness: 22000000
+Average Fitness: 19216666.666666668
+------------------------
+Number of Evaluations: 2560
+Best Fitness: 22000000
+Average Fitness: 20700000
+------------------------
+Number of Evaluations: 2750
+Best Fitness: 22000000
+Average Fitness: 21783333.333333332
+------------------------
+Number of Evaluations: 2940
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 3130
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 3320
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 3510
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 3700
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 3890
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 4080
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 4270
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 4460
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 4650
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 4840
+Best Fitness: 22000000
+Average Fitness: 22000000
+------------------------
+Number of Evaluations: 5030
+Best Fitness: 22000000
+Average Fitness: 21983333.333333332
+------------------------
